@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+publish/
+*.pdb
+*.db
+*.db-shm
+*.db-wal
+*.bak
+Thumbs.db
+.DS_Store
